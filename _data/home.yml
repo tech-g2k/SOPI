@@ -1,0 +1,105 @@
+navbar_entries:
+  - title: about
+    url: about
+
+  - title: blog
+    url: blog
+
+  - title: website
+    url: https://www.abhinav.co
+
+project_entries:
+  - title: Student Detials
+    url: https://forms.gle/RhZDWtZb1NmTt7ij6
+    desc: Please fill in the details of yourself.
+
+  - title: Part 1 - Vocabulary
+    url: https://forms.gle/vZUtDxgC6ohvGs9E9
+    desc: Test of vocabulary proficiency
+
+  - title: Part 2 - Listening
+    url: overview-post
+    desc: Test of listening capability
+
+  - title: Part 3 - Pronunciation
+    url: overview-post
+    desc: Test of pronounciation
+
+  - title: Part 4 - Speaking
+    url: overview-post
+    desc: Test of speaking capability
+
+  - title: Part 5 - Reading
+    url: overview-post
+    desc: Test of reading proficiency
+
+  # - title: Project 6
+  #   url: overview-post
+  #   desc: It also has a scalable vertical list (in case you need it)
+  #   highlight: WIP
+
+old_project_entries:
+  - title: Soopr
+    url: https://www.soopr.co
+    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
+    highlight: NEW
+
+  - title: Cookie
+    url: https://github.com/abhinavs/cookie
+    desc: An open source landing website with supporting pages and integrated blog
+
+  - title: Moonwalk
+    url: https://github.com/abhinavs/moonwalk
+    desc: A fast and minimalist Jekyll blog theme with clean dark mode
+
+  - title: Humangous
+    url: https://www.humangous.co
+    desc: The better people know you, the better they collaborate
+
+footer_entries:
+  - title: abhinav's homepage
+    url: https://www.abhinav.co
+
+  - title: twitter
+    url: https://twitter.com/abhinav
+
+  - title: github
+    url: https://github.com/abhinavs
+
+  - title: feed
+    url: feed.xml
+
+misc_entries:
+  - title: this is an example vertical list
+    url: false
+
+  - title: you can show or hide using a boolean flag in _config.yml
+    url: false
+
+  - title: and you can add data in _data/home.yml
+    url: false
+
+  - title: Blog posts
+    post_list: true
+    url: false
+
+  - title: moonwalk on the Internet
+    url: false
+    entries:
+      - title: on Github
+        url: https://github.com/abhinavs/moonwalk
+
+      - title: originally built for abhinav's homepage
+        url: https://www.abhinav.co
+
+      - title: this list is scalable and can be nested
+        url: false
+        entries:
+          - title: this is nested inside a nested list
+            url: false
+
+          - title: it is easy to use, see _data/home.yml to see how to configure it.
+            url: false
+
+
+
