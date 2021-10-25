@@ -9,7 +9,7 @@ navbar_entries:
     url: https://www.abhinav.co
 
 project_entries:
-  - title: Student Detials
+  - title: Student Details
     url: https://forms.gle/RhZDWtZb1NmTt7ij6
     desc: Please fill in the details of yourself.
 
@@ -26,7 +26,7 @@ project_entries:
     desc: Test of pronounciation
 
   - title: Part 4 - Speaking
-    url: overview-post
+    url: https://drive.google.com/file/d/19x4dM9qy84PVtFOT0gSgG1MTXhAtaMKC/view?usp=sharing
     desc: Test of speaking capability
 
   - title: Part 5 - Reading
