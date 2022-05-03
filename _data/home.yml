@@ -13,7 +13,7 @@ project_entries:
     url: https://docs.google.com/spreadsheets/d/1GFtFJ9do957XocBC_L2_lUM3tWm1zUWr8In575h_K8Y/edit#gid=1842073324
     desc: Onboard a new student, enter the student's name and personal email address.
 
-  - title: Assessor notes
+  - title: Assessor Notes
     url: https://docs.google.com/document/d/1E5ogqFxtFxnkjFMllCTlUYRnJVZV8N8t/edit#heading=h.gjdgxs
     desc: Printout this assessor notes document before assessing the student.
 
@@ -36,6 +36,10 @@ project_entries:
   - title: Superior
     url: https://docs.google.com/forms/d/1CpzygSmwZWDTBh0C40sdfzUzJbjseaSWlceDUIpZd2I/edit#responses
     desc: Go here to grade the superior vocabulary.
+
+  - title: Fill Assessor Notes
+    url: https://docs.google.com/forms/d/e/1FAIpQLSfbJ_7kXImy4njq6U2jPHRwwkbD-3LbdiiNZkokkBva0_rs0Q/viewform
+    desc: Go here to fill in the assessor's notes.
 
   # - title: Project 6
   #   url: overview-post
