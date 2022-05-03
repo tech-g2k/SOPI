@@ -9,6 +9,14 @@ navbar_entries:
     url: https://www.abhinav.co
 
 project_entries:
+  - title: Onboard
+    url: https://docs.google.com/spreadsheets/d/1GFtFJ9do957XocBC_L2_lUM3tWm1zUWr8In575h_K8Y/edit#gid=1842073324
+    desc: Onboard a new student, enter the student's name and personal email address.
+
+  - title: Assessor notes
+    url: https://docs.google.com/document/d/1E5ogqFxtFxnkjFMllCTlUYRnJVZV8N8t/edit#heading=h.gjdgxs
+    desc: Printout this assessor notes document before assessing the student.
+
   - title: Novice
     url: https://docs.google.com/forms/d/1qOIN5vuc8_hf79SV-y-jynYzKtzPWsmDiiOD4YK6TFA/edit#question=1323404147&field=2137642359
     desc: Go here to grade the novice vocabulary.
