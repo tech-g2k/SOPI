@@ -8,17 +8,19 @@ navbar_entries:
   - title: website
     url: https://www.abhinav.co
 
-project_entries:
+sopi_entries:
   - title: Onboard
     url: https://docs.google.com/spreadsheets/d/1GFtFJ9do957XocBC_L2_lUM3tWm1zUWr8In575h_K8Y/edit#gid=1842073324
     desc: Onboard a new student, enter the student's name and personal email address.
+    highlight: NEW
 
   - title: Assessor Notes
     url: https://docs.google.com/document/d/1E5ogqFxtFxnkjFMllCTlUYRnJVZV8N8t/edit#heading=h.gjdgxs
     desc: Printout this assessor notes document before assessing the student.
+    highlight: print
 
   - title: Novice
-    url: https://docs.google.com/forms/d/1qOIN5vuc8_hf79SV-y-jynYzKtzPWsmDiiOD4YK6TFA/edit#question=1323404147&field=2137642359
+    url: https://docs.google.com/forms/d/1qOIN5vuc8_hf79SV-y-jynYzKtzPWsmDiiOD4YK6TFA/edit#response=ACYDBNhDKmeJV1hS73nL6RUq6ZfpDRWRktZE12K7SD8G8yv2xga3_6fJjtNhG7I2lA
     desc: Go here to grade the novice vocabulary.
 
   - title: Intermediate
@@ -26,20 +28,37 @@ project_entries:
     desc: Go here to grade the intermediate vocabulary.
 
   - title: Advance
-    url: https://docs.google.com/forms/d/1WtEG5xzCSR8cNtJVPV_glnBzC8Mtpkf9mwFiJVqHZhs/edit#responses
+    url: https://docs.google.com/forms/d/1WtEG5xzCSR8cNtJVPV_glnBzC8Mtpkf9mwFiJVqHZhs/edit#response=ACYDBNiv63Xs56q97DTJtGlbsYXxf2ixlHCC6cht3jRJ_k4tQHyTKTv_R4iRJHUM0A
     desc: Go here to grade the advance vocabulary.
 
   - title: Advance+
-    url: https://docs.google.com/forms/d/1DwJv_Nvmnz4TPbipSzf9qLngiZfDtIADYawYwgWmocY/edit#responses
+    url: https://docs.google.com/forms/d/1DwJv_Nvmnz4TPbipSzf9qLngiZfDtIADYawYwgWmocY/edit#response=ACYDBNgBj3j-6UqMxiIbDycJ2JE4u8g6S_FyTwRE_vPN3eW1EeZJoXCDIG1JMQXINw
     desc: Go here to grade the advance+ vocabulary.
 
   - title: Superior
-    url: https://docs.google.com/forms/d/1CpzygSmwZWDTBh0C40sdfzUzJbjseaSWlceDUIpZd2I/edit#responses
+    url: https://docs.google.com/forms/d/1CpzygSmwZWDTBh0C40sdfzUzJbjseaSWlceDUIpZd2I/edit#response=ACYDBNhunp85bGjzPoUQQQkVMWVfdJ2uR1LDoA09r5RIQZcY5NQYMHC5465bBNIUuQ
     desc: Go here to grade the superior vocabulary.
 
   - title: Fill Assessor Notes
     url: https://docs.google.com/forms/d/e/1FAIpQLSfbJ_7kXImy4njq6U2jPHRwwkbD-3LbdiiNZkokkBva0_rs0Q/viewform
     desc: Go here to fill in the assessor's notes.
+
+  - title: Grade 40 Wordlist
+    url: https://docs.google.com/spreadsheets/d/1Xfj-uT9bettTGcxqitNVO1wbbESpfYIRZmTPtuLgk5Q/copy
+    desc: Make a copy, change the file name to the student's name and move the file to SOPI/Student Report folder.
+
+  - title: Grade Listening
+    url: https://docs.google.com/forms/d/1mxAspbJ_f57hqGe6s35RiuUAfjtHElWIHst0_vYu3b8/edit#response=ACYDBNh29hz_KrbYAe7lvK-gWTvMIvmvUcN3ErfCWMmtd-URn8Qh1oBpljBl2zt0sg
+    desc: Go here to grade the listening part.
+
+  - title: Create Report
+    url: https://docs.google.com/spreadsheets/d/1hGwxZOChtbJPF1nnKziHWlofrBFPBIEbM1tgy9Tyl6w/edit#gid=538369415
+    desc: Go here and from the menu option select G2K/Create Report.
+
+  - title: <span>&#10003;</span> Review & Send
+    url: https://drive.google.com/drive/folders/11Rzdi3Vx41nN3pHRPsKhjxN2NmCG3Z8H
+    desc: Go to this folder to find the student's report to review and send.
+    new_window: true
 
   # - title: Project 6
   #   url: overview-post
@@ -108,6 +127,7 @@ misc_entries:
 
           - title: it is easy to use, see _data/home.yml to see how to configure it.
             url: false
+
 
 
 
