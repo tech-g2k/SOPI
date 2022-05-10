@@ -32,3 +32,4 @@ highlighter: rouge
 sass:
   style: :compressed
 
+google_doc: https://docs.google.com/
