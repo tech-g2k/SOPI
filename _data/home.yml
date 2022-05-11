@@ -11,7 +11,7 @@ navbar_entries:
 sopi_entries:
   - title: Onboard
     url: spreadsheets/d/1GFtFJ9do957XocBC_L2_lUM3tWm1zUWr8In575h_K8Y/edit#gid=1842073324
-    desc: Onboard a new student, enter the student's name and personal email address.
+    desc: Onboard a new student, enter the student's email address and if needed enter their name also.
     highlight: NEW
 
   - title: Assessor's Notes
