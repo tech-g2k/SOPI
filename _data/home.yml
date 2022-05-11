@@ -14,9 +14,9 @@ sopi_entries:
     desc: Onboard a new student, enter the student's name and personal email address.
     highlight: NEW
 
-  - title: Assessor Notes
+  - title: Assessor's Notes
     url: document/d/1E5ogqFxtFxnkjFMllCTlUYRnJVZV8N8t/edit#heading=h.gjdgxs
-    desc: Printout this assessor notes document before assessing the student.
+    desc: Printout this assessor's notes document before assessing the student.
     highlight: print
 
   - title: Novice
