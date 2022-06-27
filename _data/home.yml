@@ -47,9 +47,17 @@ sopi_entries:
     url: spreadsheets/d/1Xfj-uT9bettTGcxqitNVO1wbbESpfYIRZmTPtuLgk5Q/copy
     desc: Make a copy, change the file name to the student's name and move the file to SOPI/Student Report folder.
 
-  - title: Grade Listening
-    url: forms/d/1mxAspbJ_f57hqGe6s35RiuUAfjtHElWIHst0_vYu3b8/edit#response=ACYDBNh29hz_KrbYAe7lvK-gWTvMIvmvUcN3ErfCWMmtd-URn8Qh1oBpljBl2zt0sg
-    desc: Go here to grade the listening part.
+  - title: Listening - Intermediate Mid
+    url: forms/d/1tnx8GsaSSLSjGXxZgHCMvSdz_pAs7c8P6__baC41Kks/edit#response=ACYDBNjwLBkpN00QfPodzcp39A56Nz9MO-Yx6gmLI_ue5MUnySpOSH9CyXUqVxQRxg
+    desc: Go to grade listening Intermediate Mid.
+
+  - title: Listening - Advance High
+    url: forms/d/1NOzH589Xw5POY9CDc4528WtVmbRWi0_9k-sKenPDk6M/edit#response=ACYDBNiULrGEMnfO8VAa272GMxZgqObeQ0R-78rr4EDxGatE5coLuNKtZU0dda6k2Q
+    desc: Go to grade listening Advance High.
+
+  - title: Listening - Superior
+    url: forms/d/1Ik7tcF1njPKPAFHYdzwIBDuCnXVX1F35GIhYTn3uPRE/edit#response=ACYDBNiMFTGxCQn_CinKLfnqwlk89wEGNTtoQ5Ud2h-vujf41cOtAngZRWH3wAnbHw
+    desc: Go to grade listening Superior.
 
   - title: Create Report
     url: spreadsheets/d/1hGwxZOChtbJPF1nnKziHWlofrBFPBIEbM1tgy9Tyl6w/edit#gid=538369415
@@ -127,6 +135,8 @@ misc_entries:
 
           - title: it is easy to use, see _data/home.yml to see how to configure it.
             url: false
+
+
 
 
 
