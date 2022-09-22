@@ -39,11 +39,11 @@ sopi_entries:
     url: forms/d/1CpzygSmwZWDTBh0C40sdfzUzJbjseaSWlceDUIpZd2I/edit#response=ACYDBNhunp85bGjzPoUQQQkVMWVfdJ2uR1LDoA09r5RIQZcY5NQYMHC5465bBNIUuQ
     desc: Go here to grade the superior vocabulary.
 
-  - title: Fill Assessor Notes
+  - title: Reading Notes
     url: forms/d/e/1FAIpQLSfbJ_7kXImy4njq6U2jPHRwwkbD-3LbdiiNZkokkBva0_rs0Q/viewform
     desc: Go here to fill in the assessor's notes.
 
-  - title: Grade 40 Wordlist
+  - title: Pronunciation
     url: spreadsheets/d/1Xfj-uT9bettTGcxqitNVO1wbbESpfYIRZmTPtuLgk5Q/copy
     desc: Make a copy, change the file name to the student's name and move the file to SOPI/Student Report folder.
 
